@@ -1,0 +1,17 @@
+textarea {
+    resize: none;
+}
+
+.v-input__details {
+    padding: 0px !important;
+}
+
+.v-table {
+    table-layout: fixed; 
+    width: 100%;
+}
+
+td {
+    word-wrap: break-word !important;
+    word-break: break-all !important;
+}
